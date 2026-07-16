@@ -1,0 +1,2 @@
+# 백업용 HTML 파일들을 깃허브 분석 대상에서 제외
+*.html linguist-vendored
